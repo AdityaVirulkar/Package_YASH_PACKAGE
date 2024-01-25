@@ -4,7 +4,7 @@
 # Date - 25/01/2024
 
 # Package Name - Y369
-# Repository Name - Package_YASH_PACKAGE
+# Repository Name - Package_YDEMO_CDS
 
 # Push Date - 25/01/2024
 # Pull Date - 
